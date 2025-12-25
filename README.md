@@ -1,10 +1,4 @@
 ✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23876
-Fork on GitHub8179
 <h1 align="center">Hi 👋, I'm Prashant Raj</h1>
 <h3 align="center">A passionate Ai-Ml developer, I code things i find cool</h3>
 
