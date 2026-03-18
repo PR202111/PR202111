@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr202111" alt="pr202111" /></a> </p>
 
-- 🔭 I’m currently working on [Pentesting Agent](https://github.com/Mission-Sita/Imagine_cup_MVP)
-
 - 🌱 I’m currently learning **About the System Level Programming**
 
 - 👯 I’m looking to collaborate on **Any Automation work or Machine learning Project**
