@@ -6,12 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr202111" alt="pr202111" /></a> </p>
 
-- 🌱 I’m currently learning **About the System Level Programming**
-
-- 👯 I’m looking to collaborate on **Any Automation work or Machine learning Project**
-
-- ⚡ Fun fact **GPT's are shit for Problem Solving**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashant-raj-6b31a5322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-raj-6b31a5322" height="30" width="40" /></a>
