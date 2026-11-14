@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<defs><linearGradient id="m" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="pg" x1="0" x2="1"><stop offset="0" stop-color="#bbf7d0"/><stop offset="1" stop-color="#059669"/></linearGradient><mask id="k"><rect width="1200" height="64" fill="url(#m)"/></mask></defs>
+<g mask="url(#k)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0 34 L110 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L300 34 L410 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L600 34 L710 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L900 34 L1010 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L1200 34" stroke="#808080" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M0 34 L110 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L300 34 L410 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L600 34 L710 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L900 34 L1010 34 l14 -4 l10 0 l8 -22 l14 46 l12 -34 l8 14 L1200 34" stroke="url(#pg)" stroke-width="2.4" pathLength="1000" stroke-dasharray="110 890"><animate attributeName="stroke-dashoffset" from="1000" to="0" dur="4.5s" repeatCount="indefinite"/></path>
+</g></svg>

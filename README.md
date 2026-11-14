@@ -1,16 +1,64 @@
-✨
-<h1 align="center">Hi 👋, I'm Prashant Raj</h1>
-<h3 align="center">A passionate Ai-Ml developer, I code things i find cool</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr202111&label=Profile%20views&color=0e75b6&style=flat" alt="pr202111" /> </p>
+<img src="./assets/banner.svg" width="100%" alt="Prashant Raj"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prashant-raj-6b31a5322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-raj-6b31a5322" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="./assets/typing.svg" alt="currently building"/>
 
+</div>
 
+<br/>
 
+<img src="./assets/h-about.svg" width="100%" alt="About"/>
+
+<br/>
+
+I'm a CS student who likes building things from scratch, from neural nets to compilers to a tiny container engine.
+
+- Studying Computer Science at NITC
+- Into deep learning, RAG and LLM agents
+- Also into compilers, operating systems and low-level C
+- Currently learning neural networks and getting better at all of it
+
+<br/>
+
+<img src="./assets/h-stack.svg" width="100%" alt="Stack"/>
+
+<br/>
+
+<div align="center"><img src="./assets/stack.svg" width="100%" alt="Stack"/></div>
+
+<br/>
+
+<img src="./assets/h-projects.svg" width="100%" alt="Projects"/>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/PR202111/c-container-engine"><img src="./assets/chip-c-container-engine.svg" alt="c-container-engine"/></a>
+<a href="https://github.com/PR202111/expl-compiler"><img src="./assets/chip-expl-compiler.svg" alt="expl-compiler"/></a>
+<a href="https://github.com/PR202111/expl-tac-optimizer"><img src="./assets/chip-expl-tac-optimizer.svg" alt="expl-tac-optimizer"/></a>
+<a href="https://github.com/PR202111/nitcbase-database-engine"><img src="./assets/chip-nitcbase-database-engine.svg" alt="nitcbase-database-engine"/></a>
+<a href="https://github.com/PR202111/notebook-llm"><img src="./assets/chip-notebook-llm.svg" alt="notebook-llm"/></a>
+<a href="https://github.com/PR202111/rag-engine"><img src="./assets/chip-rag-engine.svg" alt="rag-engine"/></a>
+<a href="https://github.com/PR202111/synapse-2k25"><img src="./assets/chip-synapse-2k25.svg" alt="synapse-2k25"/></a>
+<a href="https://github.com/PR202111/git-project-reviewer"><img src="./assets/chip-git-project-reviewer.svg" alt="git-project-reviewer"/></a>
+
+</div>
+
+<br/>
+
+<img src="./assets/h-connect.svg" width="100%" alt="Connect"/>
+
+<br/>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/prashant-raj-6b31a5322"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/PR202111"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<img src="./assets/footer.svg" width="100%" alt=""/>
+
+</div>

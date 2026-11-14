@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#bbf7d0"/><stop offset=".5" stop-color="#34d399"/><stop offset="1" stop-color="#059669" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="879" height="43" rx="12" fill="#0c0c0c" stroke="#fff" stroke-opacity=".08"/>
+<rect x="16" y="12" width="4" height="20" rx="2" fill="#34d399"><animate attributeName="height" values="20;8;20" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="12;18;12" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="34" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6b6b6b">01</text>
+<text x="62" y="28.5" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#fafafa">ABOUT</text>
+<rect x="260" y="21" width="0" height="2" rx="1" fill="url(#g)"><animate attributeName="width" values="0;590;590;0" keyTimes="0;.4;.8;1" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
